@@ -22,15 +22,15 @@ The dataset contains detailed records of civil aviation accidents and selected i
 # Methods
 ### Data Cleaning & Preprocessing:
 
-1. Handle missing data (e.g., impute missing values or drop rows with insufficient data). In our case we will drop the columns with more than 60% of missing values because some records are incomplete, and have missing values as seen in the missing values image below. These columns need to be cleaned.
+1. Handle missing data (e.g., impute missing values or drop rows with insufficient data). In our case, we will drop the columns with more than 60% of missing values because some records are incomplete, and have missing values as seen in the missing values image below. These columns need to be cleaned.
 ![alt text](<plots/Missing values.png>)
 
-2. We will then standardize the data formats ensuring that we have uniform uniform aircraft names, Models, Makes, etc and also dates have a date-time dtype().
+2. We will then standardize the data formats ensuring that we have uniform aircraft names, Models, Makes, etc and also dates have a date-time dtype().
 
 3. Remove irrelevant or duplicated records.
 4. We will filter the data using the use descriptive analysis to analyze the top airplane models.
 
-### Analysis
+# Analysis
 
 
 ***1. Data Aggregation:*** The dataset spans several decades and needs to be aggregated by aircraft model, accident type, and phase of flight.
@@ -73,7 +73,7 @@ When We looked at the average fatalities per airplane model and ranked them from
 Upon aggregating the top 10 safest models using the risk matrix generated, we identified Model G-1648 developed by the SCHWEIZER Corp to be the safest.
 
 ### Engine Analysis
-![alt text](<plots/Fatalities by engine types.png>)
+![alt text](plots/Fatalities%20by%20engine%20types.png)
 
 From the enine analysis it was noted that the aircraft with 3 Turbo Jet engine had the best performance with the least fatality being noted from this class. 
 It was also noted that generally multi-engine aircrafts have a higher fatality rate than their singular engine counterparts. This one needs further analysis to truly acertain it.
@@ -81,7 +81,7 @@ It was also noted that generally multi-engine aircrafts have a higher fatality r
 ### Operations
 ![alt text](plots/Accident_frequency_severity.png)
 
-From the operations aspect most of the accidents are caused during pilots landing the planes followed closely by those that are taking off.but interms of the average fatalities, climbing manouvres have the highest fatalities
+From the operations aspect most of the accidents are caused during pilots landing the planes followed closely by those that are taking off but interms of the average fatalities, climbing manouvres have the highest fatalities
 
 # Recommendations
 - When we are thinking about airplanes to purchase the company can consider purchasing the ****SCHWEIZER AICRAFT model G-164B*** which was ranked the highest on safety and was associated with very few recent accidents.
