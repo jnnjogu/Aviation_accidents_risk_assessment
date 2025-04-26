@@ -59,15 +59,14 @@ Create interactive visualizations (e.g., bubble charts, heatmaps, bar plots) to 
 NB: _Weighted Risk Score: All factors combined into a final score to rank aircraft safety objectively._
 # Results
 ### Accidents timeline for Aircraft models
-![alt text](Accidents_timeline.png)
+![alt text](plots/Accidents_timeline.png)
 From the timeline generated we can see that the CESSNA and the PIPER have had more recent accidents than the rest, they have also had the most total historical accidents.
 
 # Adding labels and title
-![alt text](image-1.png)
+![alt text](plots/image-1.png)
 When We looked at the average fatalities per airplane model and ranked them from the lowest to the highest, we identified SCHWEIZER and GLOBE to have the least fatalities and as expected CESSNA and PIPER were in the lower rankings.
 
-![alt text](top_10_safest_models.png)
+![alt text](plots/top_10_safest_models.png)
 Upon aggregating the top 10 safest models using the risk matrix generated, we identified Model G-1648 developed by the SCHWEIZER Corp to be the safest.
 
 # Recommendations
-
