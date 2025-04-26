@@ -1,6 +1,6 @@
 # Aviation-accidents---risk-assessment
-**Risk assessments conducted on civil aviation accidents**
-![alt text](image.png)
+**Risk assessments conducted on civil aviation accidents in the US**
+![alt text](Airplane_crash.png)
 Business Problem: Identifying Low-Risk Aircraft for Expansion into the Aviation Industry
 ## Background
 Our company is diversifying its portfolio and is looking to expand into the aviation industry by purchasing and operating airplanes for both commercial and private enterprises. However, the aviation industry involves substantial risks, especially when it comes to aircraft safety. To make informed decisions, the company needs to understand the potential risks associated with different aircraft models to avoid costly accidents and reputation damage.
@@ -23,7 +23,7 @@ The dataset contains detailed records of civil aviation accidents and selected i
 ### Data Cleaning & Preprocessing:
 
 1. Handle missing data (e.g., impute missing values or drop rows with insufficient data). In our case we will drop the columns with more than 60% of missing values because some records are incomplete, and have missing values as seen in the missing values image below. These columns need to be cleaned.
-![alt text](<Missing values.png>)
+![alt text](<plots/Missing values.png>)
 
 2. We will then standardize the data formats ensuring that we have uniform uniform aircraft names, Models, Makes, etc and also dates have a date-time dtype().
 
@@ -57,16 +57,34 @@ Create interactive visualizations (e.g., bubble charts, heatmaps, bar plots) to 
 - Survivability: Models with fewer fatal injuries and higher survival rates are considered safer.
 
 NB: _Weighted Risk Score: All factors combined into a final score to rank aircraft safety objectively._
+
+Operational Aspects that influence accidents
+We also looked at the operational aspects that might be contributing to the 
 # Results
 ### Accidents timeline for Aircraft models
 ![alt text](plots/Accidents_timeline.png)
 From the timeline generated we can see that the CESSNA and the PIPER have had more recent accidents than the rest, they have also had the most total historical accidents.
 
-# Adding labels and title
-![alt text](plots/image-1.png)
+# Safety Rank vs Average Fatalities
+![alt text](plots/safety_rank_vs_fatalities.png)
 When We looked at the average fatalities per airplane model and ranked them from the lowest to the highest, we identified SCHWEIZER and GLOBE to have the least fatalities and as expected CESSNA and PIPER were in the lower rankings.
 
 ![alt text](plots/top_10_safest_models.png)
 Upon aggregating the top 10 safest models using the risk matrix generated, we identified Model G-1648 developed by the SCHWEIZER Corp to be the safest.
 
+### Engine Analysis
+![alt text](<plots/Fatalities by engine types.png>)
+
+From the enine analysis it was noted that the aircraft with 3 Turbo Jet engine had the best performance with the least fatality being noted from this class. 
+It was also noted that generally multi-engine aircrafts have a higher fatality rate than their singular engine counterparts. This one needs further analysis to truly acertain it.
+
+### Operations
+![alt text](plots/Accident_frequency_severity.png)
+
+From the operations aspect most of the accidents are caused during pilots landing the planes followed closely by those that are taking off.but interms of the average fatalities, climbing manouvres have the highest fatalities
+
 # Recommendations
+- When we are thinking about airplanes to purchase the company can consider purchasing the ****SCHWEIZER AICRAFT model G-164B*** which was ranked the highest on safety and was associated with very few recent accidents.
+- The second alternative would be the ***GLOBE Model GC-1B*** which had few fatal injuries associated with it.
+- From the analysis we also recommend taking aircrafts with the ****multi-engine Turbo Jet engines**** specifically the ones with 3 engines.
+- I would recommend that pilots that would be flying these flights be thoroughly tained on aircraft safety precautions. I would also recommend that the unknown causes of aircraft accidents be looked into.
