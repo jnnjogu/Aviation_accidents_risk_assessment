@@ -50,14 +50,7 @@ We will use these composite scores to generate a *risk* score for all the aircra
 - Time since last accident	0.2	Newer = higher risk (because (2023 - year) is smaller)
 - Total number of accidents	0.1	Minor weight — high count = slightly riskier
 
-***3. Visualizaton and Insights***
-Create interactive visualizations (e.g., bubble charts, heatmaps, bar plots) to display:
-
-- The Top 10 Safest Aircraft Models.
-- A comparison of Accident Risk across different aircraft makes and models.
-- The Most Common Phases of Flight where accidents occur (Takeoff, Landing, etc.).
-
-***4. Risk Calculation for the safest aircraft***
+***3. Risk Calculation for the safest aircraft***
 
 - Total Accidents: Fewer historical accidents indicate a safer aircraft model.
 - Recent Accidents: Priority given to aircraft with minimal accidents in recent years.
@@ -68,6 +61,13 @@ NB: _Weighted Risk Score: All factors combined into a final score to rank aircra
 
 Operational Aspects that influence accidents
 We also looked at the operational aspects that might be contributing to the number of accidents witnessed.
+  
+***4. Visualizaton and Insights***
+Create interactive visualizations (e.g., bubble charts, heatmaps, bar plots) to display:
+
+- The Top 10 Safest Aircraft Models.
+- A comparison of Accident Risk across different aircraft makes and models.
+- The Most Common Phases of Flight where accidents occur (Takeoff, Landing, etc.).
 
 # Results
 ### Accidents timeline for Aircraft models
