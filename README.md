@@ -98,3 +98,9 @@ From the operations aspect most of the accidents are caused during pilots landin
 - The second alternative would be the ***GLOBE Model GC-1B*** which had few fatal injuries associated with it.
 - From the analysis we also recommend taking aircrafts with the ****multi-engine Turbo Jet engines**** specifically the ones with 3 engines.
 - We would recommend that pilots that would be flying these flights be thoroughly tained on aircraft safety precautions. - We would also recommend that the unknown causes of aircraft accidents be looked into.
+
+### Tableau Dashboard
+
+[Link to the tableau dashboard
+](https://public.tableau.com/views/Book1_17457908309590/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
