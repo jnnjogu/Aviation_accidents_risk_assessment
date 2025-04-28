@@ -1,7 +1,7 @@
 # Aviation-accidents---risk-assessment
 **Risk assessments conducted on civil aviation accidents in the US**
 
-![alt text](Airplane_crash.png)
+![alt text](images/Airplane_crash.png)
 
 Business Problem: Identifying Low-Risk Aircraft for Expansion into the Aviation Industry
 ## Background
