@@ -1,7 +1,7 @@
 # Aviation-accidents---risk-assessment
 **Risk assessments conducted on civil aviation accidents in the US**
 
-![alt text](Airplane_crash.png)
+![alt text](images/Airplane_crash.png)
 
 Business Problem: Identifying Low-Risk Aircraft for Expansion into the Aviation Industry
 ## Background
@@ -100,5 +100,5 @@ From the operations aspect most of the accidents are caused during pilots landin
 - We would recommend that pilots that would be flying these flights be thoroughly tained on aircraft safety precautions. - We would also recommend that the unknown causes of aircraft accidents be looked into.
 
 ### Tableau Dashboard
-[![Dashboard screenshot](<images/dashboard_image.png>)](https://public.tableau.com/app/profile/john.njogu/viz/Book1_17457908309590/Story1?publish=yes)
+[![Dashboard screenshot - click on the image to go to the link](<images/dashboard_image.png>)](https://public.tableau.com/app/profile/john.njogu/viz/Book1_17457908309590/Story1?publish=yes)
 
