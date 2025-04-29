@@ -73,7 +73,7 @@ Create interactive visualizations (e.g., bubble charts, heatmaps, bar plots) to 
 ### Accidents timeline for Aircraft models
 
 ![alt text](plots/Accidents_timeline.png)
-From the timeline generated we can see that the CESSNA and the PIPER have had more recent accidents than the rest, they have also had the most total historical accidents.
+From the timeline generated we can see that the Boeing and the Airbus have had more recent accidents than the rest, they have also had the most total historical accidents.
 
 # Safety Rank vs Average Fatalities
 ![alt text](plots/safety_rank_vs_fatalities.png)
