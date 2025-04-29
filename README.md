@@ -105,5 +105,5 @@ From the operations aspect most of the accidents are caused during pilots landin
 
 _click on the image above to go to the link_
 
-![alt text](dashboard_image.png)
+[![phase of flight](images/dashboard_image.png)]
 
