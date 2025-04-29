@@ -94,7 +94,7 @@ It was also noted that generally multi-engine aircrafts have a higher fatality r
 From the operations aspect most of the accidents are caused during pilots landing the planes followed closely by those that are taking off.but interms of the average fatalities, climbing manouvres have the highest fatalities
 
 # Recommendations
-- When we are thinking about airplanes to purchase the company can consider purchasing the ***MAULE model M-7-235B Schweizer aircraft corp G-164B*** which was ranked the highest on safety and was associated with very few recent accidents.
+- When we are thinking about airplanes to purchase the company can consider purchasing the ***MAULE model M-7-235B*** which was ranked the highest on safety and was associated with very few recent accidents.
 - The second alternative would be the ***Schweizer Aircraft Corp G-164B*** which had few fatal injuries associated with it.
 - From the analysis we also recommend taking aircrafts with the ****multi-engine Turbo Jet engines**** specifically the ones with 3 engines.
 - We would recommend that pilots that would be flying these flights be thoroughly tained on aircraft safety precautions. - We would also recommend that the unknown causes of aircraft accidents be looked into.
