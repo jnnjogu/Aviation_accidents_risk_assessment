@@ -80,7 +80,7 @@ From the timeline generated we can see that the CESSNA and the PIPER have had mo
 When We looked at the average fatalities per airplane model and ranked them from the lowest to the highest, we identified MAULE and SCHWEIZER  to have the least fatalities and as expected Airbus and Boeing were in the lower rankings.
 
 ![alt text](plots/top_10_safest_models.png)
-Upon aggregating the top 10 safest models using the risk matrix generated, we identified Model M-7-235B developed by the MAULE and Model G-164B bySCHWEIZER Corp to be the safest.
+Upon aggregating the top 10 safest models using the risk matrix generated, we identified Model M-7-235B developed by the MAULE and Model G-164B by SCHWEIZER Corp to be the safest.
 
 ### Engine Analysis
 ![alt text](<plots/Fatalities by engine types.png>)
@@ -101,7 +101,9 @@ From the operations aspect most of the accidents are caused during pilots landin
 
 ### Tableau Dashboard
 
-[![Dashboard screenshot](<images/dashboard_image.png>)](https://public.tableau.com/app/profile/john.njogu/viz/Book1_17457908309590/Story1?publish=yes)
+[![Dashboard screenshot](</images/Story 1.png>)](https://public.tableau.com/app/profile/john.njogu/viz/Book1_17457908309590/Story1?publish=yes)
 
-_click on the image to go to the link_
+_click on the image above to go to the link_
+
+![alt text](dashboard_image.png)
 
