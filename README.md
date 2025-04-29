@@ -77,10 +77,10 @@ From the timeline generated we can see that the CESSNA and the PIPER have had mo
 
 # Safety Rank vs Average Fatalities
 ![alt text](plots/safety_rank_vs_fatalities.png)
-When We looked at the average fatalities per airplane model and ranked them from the lowest to the highest, we identified SCHWEIZER and GLOBE to have the least fatalities and as expected CESSNA and PIPER were in the lower rankings.
+When We looked at the average fatalities per airplane model and ranked them from the lowest to the highest, we identified MAULE and SCHWEIZER  to have the least fatalities and as expected Airbus and Boeing were in the lower rankings.
 
 ![alt text](plots/top_10_safest_models.png)
-Upon aggregating the top 10 safest models using the risk matrix generated, we identified Model G-1648 developed by the SCHWEIZER Corp to be the safest.
+Upon aggregating the top 10 safest models using the risk matrix generated, we identified Model M-7-235B developed by the MAULE and Model G-164B bySCHWEIZER Corp to be the safest.
 
 ### Engine Analysis
 ![alt text](<plots/Fatalities by engine types.png>)
